@@ -1,14 +1,14 @@
 def factorial(n)
-    product = 1
+     product = 1
     while n > 0
-      n -= 1
       product *= n
+      n -= 1
     end
-    product
+    p product
   end
   
   # Intended output:
   #
-  # > factorial(5)
+  factorial(5)
   # => 120
   
