@@ -18,6 +18,11 @@ This repository is a way for me to practice my debugging skills. I have pulled v
 
 - Ruby
 
+## Contributors
+
+- Karim Abu-Seer @ karimabuseer
+- William Young @ William-Young-97
+
 ## Conclusion
 
 Debugging is a fundamental concept, hence, it is in the first week of the Makers course. This repository is a way to catalogue the debugging exercises that I am practicing.
